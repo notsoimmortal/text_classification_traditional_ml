@@ -1,5 +1,4 @@
-# Enterprise Text Classification using Traditional ML
-
+# Text Classification using Traditional ML
 
 ## Features
 - Handles 100k+ samples
